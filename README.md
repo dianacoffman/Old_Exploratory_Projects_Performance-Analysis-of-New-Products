@@ -1,6 +1,6 @@
 --OBJ: View the menu_item table and write a query to find the number of items on the menu.
 SELECT *
-FROM menu_items;
+FROM menu_items
 
 --What categories do we have?
 SELECT category
