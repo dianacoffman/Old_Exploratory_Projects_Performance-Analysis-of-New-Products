@@ -1,4 +1,4 @@
-# New product acceptance detection with SQL
+# New product customer acceptance detection with SQL
 
 # Overview 📖
 
