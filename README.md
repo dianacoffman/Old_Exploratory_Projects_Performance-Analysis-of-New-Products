@@ -26,16 +26,11 @@ After switching the menu, they don’t know which menu items are doing well or n
 
 - Exploratory Data Analysis in SQL to understand:
 What is on the new menu; Get an idea of the data that’s been collected this year; Understand how customers are reacting to the new menu.
-
 - Transcribe the data so that the World Cafe owner, sales manager and marketing team understand what the data is telling them about the new menu.
-
 - Generate insights from the data.
-
 - Suggest improvements.
 
 # Business Questions ⚖️
-
-1) Explore the items table:
 
 - What categories do we have?
 - What is the number of items on the menu?
@@ -44,15 +39,11 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 - What are the least and most expensive?
 - How many dishes are in each category? 
 - What is the average dish price within each category?
-
-3) Explore the orders table:
 - What is the date range of the table?
 - How many orders were made within this date range?
 - How many items were ordered within this date range?
 - Which orders had the most number of items?
 - How many orders had more than 12 items?
-
-4) Analyze Customer Behavior:
 - What were the least and most ordered items?
 - What categories are the least and most ordered items?
 - What were the top 5 orders that spent the most money?
@@ -62,6 +53,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 # Data collected from SQL data mining 📑
 
 1) Menu:
+
 - Categories: Mexican, Italian, American and Asian
 - Number of items on the menu = 32
 - What is the least expensive? Edamame (least expensive) = $5.00
@@ -73,6 +65,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 - What is the average dish price within each category? American (10.06), Mexican (11.8), Asian (13.475) and Italian (16.5)
 
 2) Orders:
+
 - What is the date range of the table? 2023-01-01 to 2023-03-31
 - How many orders were made within this date range? 5370
 - How many items were ordered within this date range? 12234 
@@ -80,6 +73,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 - How many orders had more than 12 items? 20 orders had more than 12 items
 
 3) Customer Behavior:
+
 - What were the most ordered items? Most Hamburguer (622). Also, American and Asian are the most ordered
 - What were the least ordered items? Least Chicken Tacos (123). Also, Mexican food looks the least ordered
 - What were the top 5 orders that spent the most money?  Top 5 highest spend order ~ 192, 191, 190, 189 and 185. Also, the highest top 1 is order_id 440
