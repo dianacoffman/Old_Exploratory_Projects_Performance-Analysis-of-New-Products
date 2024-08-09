@@ -25,10 +25,10 @@ After switching the menu, they don’t know which menu items are doing well or n
 # Strategy 🎯
 
 - Exploratory Data Analysis in SQL to understand:
-What is on the new menu; Get an idea of the data that’s been collected this year; Understand how customers are reacting to the new menu.
-- Transcribe the data so that the World Cafe owner, sales manager and marketing team understand what the data is telling them about the new menu.
-- Generate insights from the data.
-- Suggest improvements.
+What is on the new menu; Get an idea of the data that’s been collected this year; Understand how customers are reacting to the new menu
+- Transcribe the data so that the World Cafe owner, sales manager and marketing team understand what the data is telling them about the new menu
+- Generate insights from the data
+- Suggest improvements
 
 # Business Questions ⚖️
 
@@ -58,7 +58,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 - Number of items on the menu = 32
 - What is the least expensive? Edamame (least expensive) = $5.00
 - What are the most expensive? Shrimp (most expensive) = $19.95
-- How many Italian dishes are on the menu? Which Italian dishes are on the menu? 9 items = Spaghetti, Spaghetti & Meatballs, Fettuccine Alfredo, Meat Lasagna, Cheese Lasagna, Mushroom Ravioli, Shrimp Scampi, Chicken Parmesan, Eggplant Parmesan.
+- How many Italian dishes are on the menu? Which Italian dishes are on the menu? 9 items = Spaghetti, Spaghetti & Meatballs, Fettuccine Alfredo, Meat Lasagna, Cheese Lasagna, Mushroom Ravioli, Shrimp Scampi, Chicken Parmesan, Eggplant Parmesan
 - What are the least expensive Italian dishes? Least expensive Spaghetti = $14.50
 - What are the most expensive Italian dishes? Most expensive Shrimp Scampi = $19.95
 - How many dishes are in each category? Mexican (9), Italian (9), American (9) and Asian (8)
@@ -89,6 +89,6 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 
 # Suggestion for improvements 🛠️
 
-- Since the maximum and minimum prices for Italian food are ~$14 and ~$19, and these are the most requested by customers, it is recommended to align the prices of the other categories to this value, since foods such as Edamame (least expensive) = $5.00 could have a higher profit margin.
-- Since the greatest potential for purchase is in Italian dishes, it is recommended to focus investment in marketing campaigns with the Italian category highlighted.
-- To highlight sales in other categories, it is recommended to run promotions such as special days for each category, thus boosting sales in other categories as well. Thus, after 6 months, if sales in other categories, especially Mexican food, continue to be low, it is recommended to remove it from the menu.
+- Since the maximum and minimum prices for Italian food are ~$14 and ~$19, and these are the most requested by customers, it is recommended to align the prices of the other categories to this value, since foods such as Edamame (least expensive) = $5.00 could have a higher profit margin
+- Since the greatest potential for purchase is in Italian dishes, it is recommended to focus investment in marketing campaigns with the Italian category highlighted
+- To highlight sales in other categories, it is recommended to run promotions such as special days for each category, thus boosting sales in other categories as well. Thus, after 6 months, if sales in other categories, especially Mexican food, continue to be low, it is recommended to remove it from the menu
