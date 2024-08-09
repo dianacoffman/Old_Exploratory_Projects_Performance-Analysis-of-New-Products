@@ -4,21 +4,15 @@
 
 Conducted exploratory analysis and data cleansing to understand menu items are doing well/not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales. Used SQL to summarize trends; discovered that the dishes with the highest purchase potential are dishes from the Italian category. Created a report with an insights and recommendations section so that the restaurant can make better use of marketing and sales campaigns, and also boost sales in other categories.
 
-In the files you will find the project report in PDF with all the data extracted transcribed (also used storytelling), an SQL file with all the research carried out and also the databases.
-
 # Table of Contents 📚
 
 - Introduction
 - Situation
 - Strategy
-• Business Questions
-• Data collected from SQL data mining
-• Insights
-• Suggestion for improvements
-
-- Item 1
-- Item 2
-- Item 3
+- Business Questions
+- Data collected from SQL data mining
+- Insights
+- Suggestion for improvements
 
 # Introduction 📝
 
@@ -43,33 +37,27 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 
 1) Explore the items table:
 
-• What categories do we have?
-
-• What is the number of items on the menu?
-
-• What are the least and most expensive?
-
-• How many Italian dishes are on the menu? 
-
-• What are the least and most expensive?
-
-• How many dishes are in each category? 
-
-• What is the average dish price within each category?
+-What categories do we have?
+-What is the number of items on the menu?
+-What are the least and most expensive?
+-How many Italian dishes are on the menu? 
+-What are the least and most expensive?
+-How many dishes are in each category? 
+-What is the average dish price within each category?
 
 3) Explore the orders table:
-What is the date range of the table?
-How many orders were made within this date range?
-How many items were ordered within this date range?
-Which orders had the most number of items?
-How many orders had more than 12 items?
+-What is the date range of the table?
+-How many orders were made within this date range?
+-How many items were ordered within this date range?
+-Which orders had the most number of items?
+-How many orders had more than 12 items?
 
 4) Analyze Customer Behavior:
-What were the least and most ordered items?
-What categories are the least and most ordered items?
-What were the top 5 orders that spent the most money?
-What are the insights of the highest spend order?
-What are the top 5 highest spend orders? What are the insights of those?
+-What were the least and most ordered items?
+-What categories are the least and most ordered items?
+-What were the top 5 orders that spent the most money?
+-What are the insights of the highest spend order?
+-What are the top 5 highest spend orders? -What are the insights of those?
 
 Data collected from SQL data mining
 Menu:
