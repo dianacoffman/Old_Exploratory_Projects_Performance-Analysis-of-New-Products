@@ -8,21 +8,17 @@ In the files you will find the project report in PDF with all the data extracted
 
 # Table of Contents 📚
 
-• Introduction
-• Situation
-• Strategy
+- Introduction
+- Situation
+- Strategy
 • Business Questions
 • Data collected from SQL data mining
 • Insights
 • Suggestion for improvements
 
-Introduction
-Features
-Installation
-Usage
-Contributing
-License
-Contact
+- Item 1
+- Item 2
+- Item 3
 
 # Introduction 📝
 
