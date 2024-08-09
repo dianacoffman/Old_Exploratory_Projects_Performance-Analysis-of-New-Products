@@ -59,30 +59,31 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 - What are the insights of the highest spend order?
 - What are the top 5 highest spend orders? - What are the insights of those?
 
-Data collected from SQL data mining
-Menu:
-Categories: Mexican, Italian, American and Asian
-Number of items on the menu = 32
-What is the least expensive? Edamame (least expensive) = $5.00
-What are the most expensive? Shrimp (most expensive) = $19.95
-How many Italian dishes are on the menu? Which Italian dishes are on the menu? 9 items = Spaghetti, Spaghetti & Meatballs, Fettuccine Alfredo, Meat Lasagna, Cheese Lasagna, Mushroom Ravioli, Shrimp Scampi, Chicken Parmesan, Eggplant Parmesan.
-What are the least expensive Italian dishes? Least expensive Spaghetti = $14.50
-What are the most expensive Italian dishes? Most expensive Shrimp Scampi = $19.95
-How many dishes are in each category? Mexican (9), Italian (9), American (9) and Asian (8)
-What is the average dish price within each category? American (10.06), Mexican (11.8), Asian (13.475) and Italian (16.5)
+# Data collected from SQL data mining 📑
 
-Orders:
-What is the date range of the table? 2023-01-01 to 2023-03-31
-How many orders were made within this date range? 5370
-How many items were ordered within this date range? 12234 
-Which orders had the most number of items? Max/Most number of items per order is 14
-How many orders had more than 12 items? 20 orders had more than 12 items
+1) Menu:
+- Categories: Mexican, Italian, American and Asian
+- Number of items on the menu = 32
+- What is the least expensive? Edamame (least expensive) = $5.00
+- What are the most expensive? Shrimp (most expensive) = $19.95
+- How many Italian dishes are on the menu? Which Italian dishes are on the menu? 9 items = Spaghetti, Spaghetti & Meatballs, Fettuccine Alfredo, Meat Lasagna, Cheese Lasagna, Mushroom Ravioli, Shrimp Scampi, Chicken Parmesan, Eggplant Parmesan.
+- What are the least expensive Italian dishes? Least expensive Spaghetti = $14.50
+- What are the most expensive Italian dishes? Most expensive Shrimp Scampi = $19.95
+- How many dishes are in each category? Mexican (9), Italian (9), American (9) and Asian (8)
+- What is the average dish price within each category? American (10.06), Mexican (11.8), Asian (13.475) and Italian (16.5)
 
-Customer Behavior:
-What were the most ordered items? Most Hamburguer (622). Also, American and Asian are the most ordered
-What were the least ordered items? Least Chicken Tacos (123). Also, Mexican food looks the least ordered
-What were the top 5 orders that spent the most money?  Top 5 highest spend order ~ 192, 191, 190, 189 and 185. Also, the highest top 1 is order_id 440
-What are the insights of the highest spend order? So I can see all details of the highest top 1 order (order_id 440). Also, they ordered more Italian food (8 items)
+2) Orders:
+- What is the date range of the table? 2023-01-01 to 2023-03-31
+- How many orders were made within this date range? 5370
+- How many items were ordered within this date range? 12234 
+- Which orders had the most number of items? Max/Most number of items per order is 14
+- How many orders had more than 12 items? 20 orders had more than 12 items
+
+3) Customer Behavior:
+- What were the most ordered items? Most Hamburguer (622). Also, American and Asian are the most ordered
+- What were the least ordered items? Least Chicken Tacos (123). Also, Mexican food looks the least ordered
+- What were the top 5 orders that spent the most money?  Top 5 highest spend order ~ 192, 191, 190, 189 and 185. Also, the highest top 1 is order_id 440
+- What are the insights of the highest spend order? So I can see all details of the highest top 1 order (order_id 440). Also, they ordered more Italian food (8 items)
 
 # Insights💡
 
