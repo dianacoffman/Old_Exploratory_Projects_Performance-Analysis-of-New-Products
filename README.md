@@ -6,49 +6,69 @@ Conducted exploratory analysis and data cleansing to understand menu items are d
 
 In the files you will find the project report in PDF with all the data extracted transcribed (also used storytelling), an SQL file with all the research carried out and also the databases.
 
+# Introduction
+
 # Table of Contents 📚
 
-Situation
-Strategy
-Business Questions
-Data collected from SQL data mining
-Insights
-Suggestion for improvements
+• Introduction
+
+• Situation
+
+• Strategy
+
+• Business Questions
+
+• Data collected from SQL data mining
+
+• Insights
+
+• Suggestion for improvements
+
+# Introduction 📝
+
+World Cafe is a restaurant that has diverse menu offerings and serves generous portions. The Taste of the World Cafe debuted a new menu at the start of the year.
 
 # Situation 🔎
 
-World Cafe is a restaurant that has diverse menu offerings and serves generous portions.
-The Taste of the World Cafe debuted a new menu at the start of the year.
-Now, they don’t know which menu items are doing well / not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales.
+After switching the menu, they don’t know which menu items are doing well or not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales.
 
 # Strategy 🎯
 
-Exploratory Data Analysis in SQL to understand:
-What is on the new menu.
-Get an idea of the data that’s been collected this year.
-Understand how customers are reacting to the new menu.
-Transcribe the data so that the World Cafe owner, sales manager and marketing team understand what the data is telling them about the new menu.
-Generate insights from the data.
-Suggest improvements.
+• Exploratory Data Analysis in SQL to understand:
+What is on the new menu; Get an idea of the data that’s been collected this year; Understand how customers are reacting to the new menu.
+
+• Transcribe the data so that the World Cafe owner, sales manager and marketing team understand what the data is telling them about the new menu.
+
+• Generate insights from the data.
+
+• Suggest improvements.
 
 # Business Questions ⚖️
 
 1) Explore the items table:
-What categories do we have?
-View the menu_item table and write a query to find the number of items on the menu.
-What are the least and most expensive?
-How many Italian dishes are on the menu? What are the least and most expensive?
-How many dishes are in each category? 
-What is the average dish price within each category?
 
-2) Explore the orders table:
+• What categories do we have?
+
+• What is the number of items on the menu?
+
+• What are the least and most expensive?
+
+• How many Italian dishes are on the menu? 
+
+• What are the least and most expensive?
+
+• How many dishes are in each category? 
+
+• What is the average dish price within each category?
+
+3) Explore the orders table:
 What is the date range of the table?
 How many orders were made within this date range?
 How many items were ordered within this date range?
 Which orders had the most number of items?
 How many orders had more than 12 items?
 
-3) Analyze Customer Behavior:
+4) Analyze Customer Behavior:
 What were the least and most ordered items?
 What categories are the least and most ordered items?
 What were the top 5 orders that spent the most money?
@@ -82,16 +102,20 @@ What are the insights of the highest spend order? So I can see all details of th
 
 # Insights💡
 
-The new menu is doing well, with the category that is generating the most sales being the Italian food category.
-Mexican dishes are being ordered less by customers.
-The average number of orders is around 60 sales per day over the 3-month period (2023-01-01 to 2023-03-31).
-The most ordered item is Hamburger (622) - American category
-The least ordered item is Chicken Tacos (123) - Mexican category
+• The new menu is doing well, with the category that is generating the most sales being the Italian food category
+
+• Mexican dishes are being ordered less by customers
+
+• The average number of orders is around 60 sales per day over the 3-month period (2023-01-01 to 2023-03-31)
+
+• The most ordered item is Hamburger (622) - American category
+
+• The least ordered item is Chicken Tacos (123) - Mexican category
 
 # Suggestion for improvements 🛠️
 
-Since the maximum and minimum prices for Italian food are ~$14 and ~$19, and these are the most requested by customers, it is recommended to align the prices of the other categories to this value, since foods such as Edamame (least expensive) = $5.00 could have a higher profit margin.
+• Since the maximum and minimum prices for Italian food are ~$14 and ~$19, and these are the most requested by customers, it is recommended to align the prices of the other categories to this value, since foods such as Edamame (least expensive) = $5.00 could have a higher profit margin.
 
-Since the greatest potential for purchase is in Italian dishes, it is recommended to focus investment in marketing campaigns with the Italian category highlighted.
+• Since the greatest potential for purchase is in Italian dishes, it is recommended to focus investment in marketing campaigns with the Italian category highlighted.
 
-To highlight sales in other categories, it is recommended to run promotions such as special days for each category, thus boosting sales in other categories as well. Thus, after 6 months, if sales in other categories, especially Mexican food, continue to be low, it is recommended to remove it from the menu.
+• To highlight sales in other categories, it is recommended to run promotions such as special days for each category, thus boosting sales in other categories as well. Thus, after 6 months, if sales in other categories, especially Mexican food, continue to be low, it is recommended to remove it from the menu.
