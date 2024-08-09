@@ -37,8 +37,8 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 
 1) Explore the items table:
 
--What categories do we have?
--What is the number of items on the menu?
+- What categories do we have?
+- What is the number of items on the menu?
 -What are the least and most expensive?
 -How many Italian dishes are on the menu? 
 -What are the least and most expensive?
