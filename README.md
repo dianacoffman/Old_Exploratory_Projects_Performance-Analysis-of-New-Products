@@ -1,22 +1,27 @@
-# OVERVIEW:
+# New product acceptance detection with SQL
+
+# Overview 📖
 
 Conducted exploratory analysis and data cleansing to understand menu items are doing well/not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales. Used SQL to summarize trends; discovered that the dishes with the highest purchase potential are dishes from the Italian category. Created a report with an insights and recommendations section so that the restaurant can make better use of marketing and sales campaigns, and also boost sales in other categories.
 
 In the files you will find the project report in PDF with all the data extracted transcribed (also used storytelling), an SQL file with all the research carried out and also the databases.
 
-World Café Operations Analysis
-
-Summary: 
-Situation, Strategy, Business Questions, Data collected from SQL data mining, 
-Insights and Suggestion for improvements
+# Table of Contents 📚
 
 Situation
+Strategy
+Business Questions
+Data collected from SQL data mining
+Insights
+Suggestion for improvements
+
+# Situation 🔎
 
 World Cafe is a restaurant that has diverse menu offerings and serves generous portions.
 The Taste of the World Cafe debuted a new menu at the start of the year.
 Now, they don’t know which menu items are doing well / not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales.
 
-Strategy
+# Strategy 🎯
 
 Exploratory Data Analysis in SQL to understand:
 What is on the new menu.
@@ -26,7 +31,7 @@ Transcribe the data so that the World Cafe owner, sales manager and marketing te
 Generate insights from the data.
 Suggest improvements.
 
-Business Questions
+# Business Questions ⚖️
 
 1) Explore the items table:
 What categories do we have?
@@ -75,7 +80,7 @@ What were the least ordered items? Least Chicken Tacos (123). Also, Mexican food
 What were the top 5 orders that spent the most money?  Top 5 highest spend order ~ 192, 191, 190, 189 and 185. Also, the highest top 1 is order_id 440
 What are the insights of the highest spend order? So I can see all details of the highest top 1 order (order_id 440). Also, they ordered more Italian food (8 items)
 
-Insights
+# Insights💡
 
 The new menu is doing well, with the category that is generating the most sales being the Italian food category.
 Mexican dishes are being ordered less by customers.
@@ -83,7 +88,7 @@ The average number of orders is around 60 sales per day over the 3-month period 
 The most ordered item is Hamburger (622) - American category
 The least ordered item is Chicken Tacos (123) - Mexican category
 
-Suggestion for improvements
+# Suggestion for improvements 🛠️
 
 Since the maximum and minimum prices for Italian food are ~$14 and ~$19, and these are the most requested by customers, it is recommended to align the prices of the other categories to this value, since foods such as Edamame (least expensive) = $5.00 could have a higher profit margin.
 
