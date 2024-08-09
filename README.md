@@ -12,7 +12,7 @@ Conducted exploratory analysis and data cleansing to understand menu items are d
 - Business Questions
 - Data collected from SQL data mining
 - Insights
-- Suggestion for improvements
+- Recommendations
 
 # Introduction 📝
 
@@ -87,7 +87,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 - The most ordered item is Hamburger (622) - American category
 - The least ordered item is Chicken Tacos (123) - Mexican category
 
-# Suggestion for improvements 🛠️
+# Recommendations 🛠️
 
 - Since the maximum and minimum prices for Italian food are ~$14 and ~$19, and these are the most requested by customers, it is recommended to align the prices of the other categories to this value, since foods such as Edamame (least expensive) = $5.00 could have a higher profit margin
 - Since the greatest potential for purchase is in Italian dishes, it is recommended to focus investment in marketing campaigns with the Italian category highlighted
