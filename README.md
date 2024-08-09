@@ -6,22 +6,14 @@ Conducted exploratory analysis and data cleansing to understand menu items are d
 
 In the files you will find the project report in PDF with all the data extracted transcribed (also used storytelling), an SQL file with all the research carried out and also the databases.
 
-# Introduction
-
 # Table of Contents 📚
 
 • Introduction
-
 • Situation
-
 • Strategy
-
 • Business Questions
-
 • Data collected from SQL data mining
-
 • Insights
-
 • Suggestion for improvements
 
 # Introduction 📝
