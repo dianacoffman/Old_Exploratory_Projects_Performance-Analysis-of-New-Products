@@ -16,6 +16,14 @@ In the files you will find the project report in PDF with all the data extracted
 • Insights
 • Suggestion for improvements
 
+Introduction
+Features
+Installation
+Usage
+Contributing
+License
+Contact
+
 # Introduction 📝
 
 World Cafe is a restaurant that has diverse menu offerings and serves generous portions. The Taste of the World Cafe debuted a new menu at the start of the year.
