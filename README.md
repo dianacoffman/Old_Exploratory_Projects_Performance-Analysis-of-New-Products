@@ -1,10 +1,10 @@
-# New product customer acceptance detection with SQL
+## Performance analysis of new products with SQL
 
-# Overview 📖
+## Overview 📖
 
 Conducted exploratory analysis and data cleaning to understand menu items are doing well/not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales. Used SQL to summarize trends; discovered that the dishes with the highest purchase potential are dishes from the Italian category. Created a report with an insights and recommendations section so that the restaurant can make better use of marketing and sales campaigns, and also boost sales in other categories.
 
-# Table of Contents 📚
+## Table of Contents 📚
 
 - Introduction
 - Situation
@@ -14,15 +14,11 @@ Conducted exploratory analysis and data cleaning to understand menu items are do
 - Insights
 - Recommendations
 
-# Introduction 📝
+## Introduction and Situation 📝🔎
 
-World Cafe is a restaurant that has diverse menu offerings and serves generous portions. The Taste of the World Cafe debuted a new menu at the start of the year.
+World Cafe is a restaurant that has diverse menu offerings and serves generous portions. The Taste of the World Cafe debuted a new menu at the start of the year. After switching the menu, they don’t know which menu items are doing well or not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales.
 
-# Situation 🔎
-
-After switching the menu, they don’t know which menu items are doing well or not well and what the top customers seem to like the best, which is very important to understand before starting marketing campaigns to increase sales.
-
-# Strategy 🎯
+## Strategy 🎯
 
 - Exploratory Data Analysis in SQL to understand:
 What is on the new menu; Get an idea of the data that’s been collected this year; Understand how customers are reacting to the new menu
@@ -30,27 +26,14 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 - Generate insights from the data
 - Suggest improvements
 
-# Business Questions ⚖️
+## Business Questions ⚖️
 
-- What categories do we have?
-- What is the number of items on the menu?
-- What are the least and most expensive?
-- How many Italian dishes are on the menu? 
-- What are the least and most expensive?
-- How many dishes are in each category? 
-- What is the average dish price within each category?
-- What is the date range of the table?
-- How many orders were made within this date range?
-- How many items were ordered within this date range?
-- Which orders had the most number of items?
-- How many orders had more than 12 items?
-- What were the least and most ordered items?
-- What categories are the least and most ordered items?
-- What were the top 5 orders that spent the most money?
-- What are the insights of the highest spend order?
-- What are the top 5 highest spend orders? - What are the insights of those?
+- Which categories are the most and least popular, and how does this impact our menu and pricing strategy?
+- What are the top highest spend orders, and what insights can we gain from them to enhance our pricing and promotional strategies?
+- What is the average price of dishes within each category, and how does this influence customer choices and profitability?
+- How many orders were made within a specific date range, and what does this tell us about customer behavior and peak periods?
 
-# Data collected from SQL data mining 📑
+## Data collected from SQL data mining 📑
 
 1) Menu:
 
@@ -79,7 +62,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 - What were the top 5 orders that spent the most money?  Top 5 highest spend order ~ 192, 191, 190, 189 and 185. Also, the highest top 1 is order_id 440
 - What are the insights of the highest spend order? So I can see all details of the highest top 1 order (order_id 440). Also, they ordered more Italian food (8 items)
 
-# Insights💡
+## Insights💡
 
 - The new menu is doing well, with the category that is generating the most sales being the Italian food category
 - Mexican dishes are being ordered less by customers
@@ -87,7 +70,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 - The most ordered item is Hamburger (622) - American category
 - The least ordered item is Chicken Tacos (123) - Mexican category
 
-# Recommendations 🛠️
+## Recommendations 🛠️
 
 - Since the maximum and minimum prices for Italian food are ~$14 and ~$19, and these are the most requested by customers, it is recommended to align the prices of the other categories to this value, since foods such as Edamame (least expensive) = $5.00 could have a higher profit margin
 - Since the greatest potential for purchase is in Italian dishes, it is recommended to focus investment in marketing campaigns with the Italian category highlighted
