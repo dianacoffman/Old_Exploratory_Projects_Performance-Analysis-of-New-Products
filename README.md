@@ -64,14 +64,13 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 
 ## Insights💡
 
-- The new menu is doing well, with the category that is generating the most sales being the Italian food category
-- Mexican dishes are being ordered less by customers
-- The average number of orders is around 60 sales per day over the 3-month period (2023-01-01 to 2023-03-31)
-- The most ordered item is Hamburger (622) - American category
-- The least ordered item is Chicken Tacos (123) - Mexican category
+- Italian Food Category Leads Sales: The Italian food category is currently our top performer, generating the highest sales among all menu categories. This suggests strong customer preference and demand.
+- Decline in Mexican Dishes: Orders for Mexican dishes are noticeably lower compared to other categories, indicating a potential shift in customer preferences or dissatisfaction.
+- Order Volume Overview: We observe an average of approximately 60 sales per day over the three-month period from January 1, 2023, to March 31, 2023. This provides a baseline for our daily sales performance.
+- Top and Bottom Sellers: The Hamburger, from the American category, is the most frequently ordered item with 622 orders. In contrast, the Chicken Tacos from the Mexican category are the least ordered, with only 123 orders.
 
 ## Recommendations 🛠️
 
-- Since the maximum and minimum prices for Italian food are ~$14 and ~$19, and these are the most requested by customers, it is recommended to align the prices of the other categories to this value, since foods such as Edamame (least expensive) = $5.00 could have a higher profit margin
-- Since the greatest potential for purchase is in Italian dishes, it is recommended to focus investment in marketing campaigns with the Italian category highlighted
-- To highlight sales in other categories, it is recommended to run promotions such as special days for each category, thus boosting sales in other categories as well. Thus, after 6 months, if sales in other categories, especially Mexican food, continue to be low, it is recommended to remove it from the menu
+- Adjust Pricing Strategy: Given that Italian dishes, which are priced between $14 and $19, are the most popular, we recommend aligning the prices of other menu categories closer to this range. Items like Edamame, currently priced at $5.00, could be priced higher to improve profit margins without significantly affecting customer demand.
+- Enhance Marketing Focus: To capitalize on the strong performance of Italian dishes, we should prioritize marketing campaigns that highlight this category. Targeted promotions can drive further engagement and sales within this segment.
+- Boost Sales in Underperforming Categories: Implement promotional strategies, such as special discount days for each category, to increase visibility and sales across all menu offerings. If, after six months, categories like Mexican food continue to underperform, consider evaluating the option of removing them from the menu to optimize overall profitability.
