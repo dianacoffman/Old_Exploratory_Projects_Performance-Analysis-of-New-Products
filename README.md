@@ -35,7 +35,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 
 ## Data collected from SQL data mining 📑
 
-The SQL queries performed to uncover these general insights can be found **[here]([https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Commercial_Performance_Analysis.sql](https://github.com/dianacoffman/World-Cafe-Operations-Analysis/blob/main/SQL_World%20Cafe%20Operations%20Analysis.sql))**.
+The SQL queries performed to uncover these general insights can be found **[here]([https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Commercial_Performance_Analysis.sql](https://github.com/dianacoffman/World-Cafe-Operations-Analysis/blob/main/SQL_World%20Cafe%20Operations%20Analysis.sql)**.
 
 ## Insights💡
 
