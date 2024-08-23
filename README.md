@@ -35,32 +35,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 
 ## Data collected from SQL data mining 📑
 
-1) Menu:
-
-- Categories: Mexican, Italian, American and Asian
-- Number of items on the menu = 32
-- What is the least expensive? Edamame (least expensive) = $5.00
-- What are the most expensive? Shrimp (most expensive) = $19.95
-- How many Italian dishes are on the menu? Which Italian dishes are on the menu? 9 items = Spaghetti, Spaghetti & Meatballs, Fettuccine Alfredo, Meat Lasagna, Cheese Lasagna, Mushroom Ravioli, Shrimp Scampi, Chicken Parmesan, Eggplant Parmesan
-- What are the least expensive Italian dishes? Least expensive Spaghetti = $14.50
-- What are the most expensive Italian dishes? Most expensive Shrimp Scampi = $19.95
-- How many dishes are in each category? Mexican (9), Italian (9), American (9) and Asian (8)
-- What is the average dish price within each category? American (10.06), Mexican (11.8), Asian (13.475) and Italian (16.5)
-
-2) Orders:
-
-- What is the date range of the table? 2023-01-01 to 2023-03-31
-- How many orders were made within this date range? 5370
-- How many items were ordered within this date range? 12234 
-- Which orders had the most number of items? Max/Most number of items per order is 14
-- How many orders had more than 12 items? 20 orders had more than 12 items
-
-3) Customer Behavior:
-
-- What were the most ordered items? Most Hamburguer (622). Also, American and Asian are the most ordered
-- What were the least ordered items? Least Chicken Tacos (123). Also, Mexican food looks the least ordered
-- What were the top 5 orders that spent the most money?  Top 5 highest spend order ~ 192, 191, 190, 189 and 185. Also, the highest top 1 is order_id 440
-- What are the insights of the highest spend order? So I can see all details of the highest top 1 order (order_id 440). Also, they ordered more Italian food (8 items)
+The SQL queries performed to uncover these general insights can be found **[here]([https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Commercial_Performance_Analysis.sql](https://github.com/dianacoffman/World-Cafe-Operations-Analysis/blob/main/SQL_World%20Cafe%20Operations%20Analysis.sql))**.
 
 ## Insights💡
 
@@ -71,6 +46,7 @@ What is on the new menu; Get an idea of the data that’s been collected this ye
 
 ## Recommendations 🛠️
 
-- Adjust Pricing Strategy: Given that Italian dishes, which are priced between $14 and $19, are the most popular, we recommend aligning the prices of other menu categories closer to this range. Items like Edamame, currently priced at $5.00, could be priced higher to improve profit margins without significantly affecting customer demand.
-- Enhance Marketing Focus: To capitalize on the strong performance of Italian dishes, we should prioritize marketing campaigns that highlight this category. Targeted promotions can drive further engagement and sales within this segment.
-- Boost Sales in Underperforming Categories: Implement promotional strategies, such as special discount days for each category, to increase visibility and sales across all menu offerings. If, after six months, categories like Mexican food continue to underperform, consider evaluating the option of removing them from the menu to optimize overall profitability.
+- Pricing Strategy Adjustment: Align the pricing of other categories closer to the Italian dishes' range ($14-$19) to enhance profitability. Consider increasing prices on lower-margin items like Edamame to balance margins.
+- Marketing Focus: Invest in marketing campaigns that emphasize Italian dishes due to their popularity and higher average price. Highlighting these items could boost overall sales.
+- Promotional Strategies: Implement promotions or special discount days for underperforming categories, such as Mexican food, to increase their visibility and appeal. Monitor the impact of these promotions and consider removing low-performing items if necessary.
+- Analyze High-Spend Orders: Review the details of high-spend orders, especially those that include multiple Italian dishes. Use these insights to refine your pricing strategies and offer tailored promotions for high-value customers.
